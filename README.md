@@ -1,1 +1,1 @@
-# InfinigenCVModel
+# InfinigenSingleAssetDataGen
